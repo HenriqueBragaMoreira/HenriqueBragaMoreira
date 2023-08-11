@@ -1,7 +1,7 @@
 ## Hi everyone! I'm Henrique Braga
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenriqueBragaMoreira&show_icons=true&count_private=true&hide_border=true&title_color=191970&icon_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="HenriqueBragaMoreira github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenriqueBragaMoreira&show_icons=true&theme=radical" alt="HenriqueBragaMoreira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBragaMoreira&hide_progress=true" />
 </div><br>
 
