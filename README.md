@@ -1,17 +1,40 @@
 ## Hi everyone! I'm Henrique Braga
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenriqueBragaMoreira&show_icons=true&theme=radical" alt="HenriqueBragaMoreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBragaMoreira&hide_progress=true" />
-</div><br>
+ 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="350px" align="right">
+<p align="left"> 
+  A 19 year old technology enthusiast who studied Systems Development for 3 years before enrolling in Computer Science college. 
+      
+  I am currently a Front-end Developer, I have been improving my skills with technologies such as: <strong>NextJS, ReactJS, Typescript, NodeJS, among others.</strong>
+  
+  I am excited to face challenges and grow professionally, combining my academic training with practical experience in the development area.
 
-<div align="center"> 
-  <a href="https://www.instagram.com/hen1_braga/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href = "mailto:shenrique40moreira@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/h-braga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  And what made you fall into my profile?
+
+  Get in touch, we can have more experiences together. 🚀🚀
+</p>
+
+<br>
+
+## ⚡ Social Networks:
+<div align="left"> 
+  <a href="https://twitter.com/braginha_hen1" title="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=X&logoColor=white&link=https://twitter.com/braginha_hen1" alt="WhatsApp"/></a>
+  
+  <a href="shenrique40moreira@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=shenrique40moreira@gmail.com" alt="Gmail"/></a>
+  
+  <a href="https://www.instagram.com/hen1_braga/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/hen1_braga/" alt="Instagram"/></a>
+  
+  <a href="https://www.linkedin.com/in/h-braga/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/h-braga/" alt="LinkedIn"/></a>
+  
+  <a href="https://discord.com/users/290246723471933451" title="Discord">
+  <img src="https://img.shields.io/badge/-Discord-3b5998?style=flat-square&labelColor=3b5998&logo=discord&logoColor=white&link=https://discord.com/users/290246723471933451" alt="Discord"/></a>
  </div>
 
-  ## ⚡ Main Skills:
+  ## 🔥 Main Skills:
   <div>
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
