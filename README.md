@@ -21,7 +21,7 @@
   <a href="https://twitter.com/braginha_hen1" title="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=X&logoColor=white&link=https://twitter.com/braginha_hen1" alt="WhatsApp"/></a>
   
-  <a href="shenrique40moreira@gmail.com" title="Gmail">
+  <a href="mailto:shenrique40moreira@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=shenrique40moreira@gmail.com" alt="Gmail"/></a>
   
   <a href="https://www.instagram.com/hen1_braga/" title="Instagram">
