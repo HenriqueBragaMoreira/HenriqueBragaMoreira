@@ -14,8 +14,6 @@
   Get in touch, we can have more experiences together. 🚀🚀
 </p>
 
-<br>
-
 ## ⚡ Social Networks:
 <div align="left"> 
   <a href="https://twitter.com/braginha_hen1" title="Twitter">
