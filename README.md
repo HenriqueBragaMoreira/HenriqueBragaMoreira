@@ -1,18 +1,7 @@
 ## Hi everyone! I'm Henrique Braga
 
  
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="350px" align="right">
-<p align="left"> 
-  A 19 year old technology enthusiast who studied Systems Development for 3 years before enrolling in Computer Science college. 
-      
-  I am currently a Front-end Developer, I have been improving my skills with technologies such as: <strong>NextJS, ReactJS, Typescript, NodeJS, among others.</strong>
-  
-  I am excited to face challenges and grow professionally, combining my academic training with practical experience in the development area.
-
-  And what made you fall into my profile?
-
-  Get in touch, we can have more experiences together. 🚀🚀
-</p>
+I'm a Full-Stack Developer specializing in Next.js, NestJS, TypeScript, relational databases, ORMs (Prisma, Drizzle, and TypeORM), and AI-powered applications. My approach goes beyond writing code: I design scalable architectures, prioritize code quality, automation, and user experience to deliver products built to evolve.
 
 ## ⚡ Social Networks:
 <div align="left"> 
